@@ -1,0 +1,11 @@
+{
+    "name": "MileStoneSaves",
+    "version": "1.1.0",
+    "title": "Milestone Saves",
+    "author": "billbo99",
+    "contact": "",
+    "homepage": "https://mods.factorio.com/mod/MileStoneSaves",
+    "factorio_version": "1.1",
+    "dependencies": [],
+    "description": "The idea of the mod is to generate timestamped saves so that they can later be used to generate a time lapsed view of the saves progression over time."
+}

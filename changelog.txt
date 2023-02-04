@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2020-11-24
+  Changes:
+    - Added support for 1.1.0
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 11. 07. 2020
+  Features:
+    - Allows the server to save every XXX period with a timestamp
+    - Option to save after making XXX science packs
+    - Option to save after each research has been completed
